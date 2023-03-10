@@ -1,7 +1,7 @@
 # KnowledgeMiner
 ## Description
 KnowledgeMiner is a app system for developing literature reviews across different use cases and academic and professional levels.
-KnowledgeMiner makes it easy to keep track of all your research, from organizing citations to creating bibliographies and summaries. With KnowledgeMiner, you can quickly search for and find relevant studies, read and highlight key points, and easily export your review to any document format. With powerful search capabilities and detailed analysis features, PaperFuel is the perfect tool for powering your literature reviews.
+KnowledgeMiner makes it easy to keep track of all your research, from organizing citations to creating bibliographies and summaries. With KnowledgeMiner, you can quickly search for and find relevant studies, read and highlight key points, and easily export your review to any document format. With powerful search capabilities and detailed analysis features, KnowledgeMiner is the perfect tool for powering your literature reviews.
 ## The System Components
 We will have a number of components for this app:
 - a web app for engaging directly in the use cases for the app system;
